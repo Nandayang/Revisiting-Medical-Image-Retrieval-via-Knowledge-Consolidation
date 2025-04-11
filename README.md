@@ -5,10 +5,6 @@ This is the official repository for Anomaly-aware Content-based Image Recommenda
 
 For more information about ACIR, please read the [following paper](https://www.sciencedirect.com/science/article/pii/S1361841525001008), [arxiv version](https://arxiv.org/pdf/2503.09370):  
 
-Nan, Y., Zhou, H., Xing, X., Papanastasiou, G., Zhu, L., Gao, Z., ... & Yang, G. (2025). Revisiting medical image retrieval via knowledge consolidation. Medical Image Analysis, 103553.
-
-Please cite this paper if you are using it for your research.
-
 ACIR can better cluster images with appropriate cluster centers as well as identifying OOD samples.
 ![image](https://github.com/Nandayang/Revisiting-Medical-Image-Retrieval-via-Knowledge-Consolidation/blob/main/repo_arxiv/Fig4_new_00.png)
 
