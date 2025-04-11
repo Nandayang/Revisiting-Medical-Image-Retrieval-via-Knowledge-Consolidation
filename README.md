@@ -15,3 +15,17 @@ ACIR can better cluster images with appropriate cluster centers as well as ident
 To achieve this, the network should be trained in two stages:
   1. Train the model without the reconstruction decoder.
   2. Enable the reconstruction decoder and freeze the weights of the remaining parts of ACIR.
+
+## Citation
+
+If you find this study useful in your research, please cite:
+
+```bibtex
+@article{nan2025revisiting,
+  title={Revisiting medical image retrieval via knowledge consolidation},
+  author={Nan, Yang and Zhou, Huichi and Xing, Xiaodan and Papanastasiou, Giorgos and Zhu, Lei and Gao, Zhifan and Frangi, Alejandro F and Yang, Guang},
+  journal={Medical Image Analysis},
+  pages={103553},
+  year={2025},
+  publisher={Elsevier}
+}
