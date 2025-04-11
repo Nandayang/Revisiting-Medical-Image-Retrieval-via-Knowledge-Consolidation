@@ -1,7 +1,7 @@
 # Revisiting-Medical-Image-Retrieval-via-Knowledge-Consolidation
 This is the official repository for Anomaly-aware Content-based Image Recommendation (ACIR)
 
-![image](https://github.com/Nandayang/Revisiting-Medical-Image-Retrieval-via-Knowledge-Consolidation/blob/main/repo_arxiv/abstractFig.pdf)
+![image](https://github.com/Nandayang/Revisiting-Medical-Image-Retrieval-via-Knowledge-Consolidation/blob/main/repo_arxiv/abstractFig_00.png)
 
 For more information about ACIR, please read the [following paper](https://www.sciencedirect.com/science/article/pii/S1361841525001008), [arxiv version]():  
 
